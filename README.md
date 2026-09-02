@@ -242,18 +242,6 @@ AI-powered interactive desktop pet that combines animated desktop interfaces wit
 `Python` `Tkinter` `Gemini API` `OOP`
 
 </td>
-
-<td width="50%" valign="top">
-
-### 📊 Job Market Analytics
-
-Full-stack data analytics platform designed to collect, process, store, and visualize job-market information.
-
-**Tech**
-
-`Python` `Flask` `PostgreSQL` `Pandas` `Plotly` `Docker`
-
-</td>
 </tr>
 </table>
 
