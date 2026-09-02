@@ -251,7 +251,7 @@ Full-stack data analytics platform designed to collect, process, store, and visu
 
 **Tech**
 
-`Python` `Flask` `PostgreSQL` `SQLAlchemy` `Pandas` `Plotly` `Docker`
+`Python` `Flask` `PostgreSQL` `Pandas` `Plotly` `Docker`
 
 </td>
 </tr>
