@@ -3,7 +3,7 @@
 -->
 
 <h3 align="center">
-  Hey there, I'm Padme
+  HI!, I'm Padme 🫶
 </h3>
 
 <div align="center">
